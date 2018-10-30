@@ -45,6 +45,7 @@ namespace InspectorUsageSample
                 x.AddEnvironment("developement");
                 x.AddName("Inspector Usage Sample");
                 x.AddVersion("1.0.0");
+                x.AddKeyValue("Some Key", "Some Value");
             });
 
 
